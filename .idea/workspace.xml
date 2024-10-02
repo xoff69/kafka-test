@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0e48752-ee2f-4b66-a85a-cec9403e0eda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/game/AppConsumerGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/game/AppProducerGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/game/CommonGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/game/CommonGameDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/game/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/player/AppConsumerPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/player/AppProducerPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/player/CommonPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/player/CommonPlayerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/player/PlayerParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kafka/player/PlayersListHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/kafka/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xoff69"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot-v2.git",
+    "accountId": "a12f5ee8-2117-4644-aded-b1f86dc7d3ea"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2mqNnun11KdOKcCpgiphbPqURV3" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/home/developpement/kafka/chessvger"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e48752-ee2f-4b66-a85a-cec9403e0eda" name="Changes" comment="" />
+      <created>1727800323593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727800323593</updated>
+    </task>
+    <servers />
+  </component>
+</project>
